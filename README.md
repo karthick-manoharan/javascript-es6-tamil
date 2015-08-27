@@ -11,6 +11,7 @@
 கீழ்கானும் தலைப்புகள் இஸ்6 அம்சங்கள் :
 
 - [Functions](https://github.com/pli88/javascript-es6-tamil/blob/master/Functions.md)
+-  [For..of](https://github.com/pli88/javascript-es6-tamil/blob/master/For..of.md)
 
 Tools used:
 
